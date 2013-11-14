@@ -1,4 +1,4 @@
 codechef
 ========
 
-Just for some fun
+Just for some fun with programming
